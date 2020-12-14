@@ -17,7 +17,7 @@ google_tag_manager_id = ""
   alt = "Ciência de Dados para Negócios"
 
   [params.homepage_meta_tags]
-  meta_description = "Curso da Unver"
+  meta_description = "Curso da Universidade Federal da Paraíba"
   meta_og_title = "Hugo Serif Theme"
   meta_og_type = "website"
   meta_og_url = "https://hugo-serif.netlify.app"
