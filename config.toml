@@ -1,6 +1,6 @@
 baseURL = "www.example.com"
 languageCode = "en-us"
-title = "Ci"
+title = "Ciência de Dados para NEgóci"
 
 [params]
 google_analytics_id = ""
